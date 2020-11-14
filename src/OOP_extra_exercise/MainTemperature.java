@@ -2,7 +2,7 @@ package OOP_extra_exercise;
 
 import java.util.Scanner;
 
-public class Main {
+public class MainTemperature {
 
 	public final static Scanner SCANBOT = new Scanner(System.in);
 
